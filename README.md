@@ -5,7 +5,7 @@
 - created CRUD for Users, Projects and Timesheets
 - created Unit Tests for all basic API requests
 - created default seeders and DB migration
-- [created Postman collection](https://github.com/SmileyThane/astudio-demo-app/postman-collection.json)
+- [created Postman collection](https://github.com/SmileyThane/astudio-demo-app/blob/main/postman-collection.json)
 
 Please, check postman collection to see all API routes and parameters
 
